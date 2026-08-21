@@ -29,15 +29,8 @@ context, tools, permissions, evaluation.
 ![Coding agents](https://img.shields.io/badge/Coding%20agents-0d1218?style=flat-square&logo=claude&logoColor=22e5b0)
 ![MCP](https://img.shields.io/badge/MCP%20tooling-0d1218?style=flat-square&logo=modelcontextprotocol&logoColor=22e5b0)
 
-**In the open** — [**vibe-coding**](https://github.com/andymaker156/vibe-coding): context
-engineering, agent skills and evaluation harnesses, with the reasoning written down ·
-[**andymaker156.github.io**](https://github.com/andymaker156/andymaker156.github.io): my
-homepage, one static file, no trackers, no build step.
-
-**Background** — two decades across tier-one Canadian banking, public-sector delivery and
-Fortune 500 high-performance computing; client names withheld. Patent holder, job
-scheduler workflow control. Published in IBM Redbooks and developerWorks. Certified on
-all three major clouds.
+**Background** — two decades across tier-one Canadian banking, public-sector, startup
+and Fortune 500. Patent holder and publisher. Certified on all three major clouds.
 
 <sub>Available for consulting on cloud architecture, platform work and AI-assisted
 engineering — <a href="mailto:andymaker156@gmail.com">andymaker156@gmail.com</a></sub>
